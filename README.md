@@ -1,1 +1,1 @@
-my first readme
+Solving Hard problem
